@@ -32,7 +32,7 @@ class FilmItem extends React.Component {
             
         </View>
 
-        {/* <Text style={styles.title_text}>Titre du film</Text> */}
+        {/* <Text style={styles.title_text}>Titre du film</Text> hgfkhkhd*/}
       </View>
     )
   }
